@@ -55,8 +55,8 @@
 
 
 
-[website]: https://charalambosioannou.github.io/
-[linkedin]: https://linkedin.com/in/charalambosioannou
-[mail]: mailto:cioannou1997@gmail.com
+[website]: https://ilhamnyto.github.io/
+[linkedin]: https://linkedin.com/in/ilhamnyto
+[mail]: mailto:ilhamnyto@gmail@gmail.com
 
 
