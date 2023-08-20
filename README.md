@@ -27,6 +27,8 @@
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/ilhamnyto)
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/ilhamnyto)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/ilhamnyto)
+[![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/ilhamnyto)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/ilhamnyto)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/ilhamnyto)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/ilhamnyto)
 <br />
